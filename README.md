@@ -4,5 +4,5 @@ I'm roney. I like working on javascript, html and pentesting. I also usually dev
 
 #### me on social media
 
-- Discord: [roney#1337](https://discord.com/users/302895518881677312)
+- Discord: [clarex#0001](https://discord.com/users/302895518881677312)
 - Site: [clarex.wtf](https://clarex.wtf/)
